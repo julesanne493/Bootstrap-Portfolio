@@ -1,0 +1,19 @@
+body {
+    background-image: url(images/leaves-pattern.png)
+}
+
+.container {
+    background-color: white;
+}
+
+#contactform {
+background-color: white;
+}
+
+.space {
+    height: 10px;
+}
+
+h1 {
+    text-align: center;
+}
