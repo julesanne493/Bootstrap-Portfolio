@@ -17,3 +17,15 @@ background-color: white;
 h1 {
     text-align: center;
 }
+
+.sidebar {
+    background-color: white;
+    height: 560px;
+}
+
+img {   
+    float:left;
+    padding-right: 20px;
+}
+
+
